@@ -1,0 +1,3 @@
+- 👋 Halo, Saya Lyntom Irfan
+- 👀 Saya sekarang sedang fokus pada bahasa pemrograman PHP
+- 🌱 Saya sekarang sedang belajar freamwork PHP yaitu Laravel
